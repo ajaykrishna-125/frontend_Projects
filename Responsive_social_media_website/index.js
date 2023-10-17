@@ -1,5 +1,5 @@
 // SIDEBAR
-const menuItems = document.querySelectorAll(".menu-item");
+const menuItems = document.querySelectorAll('.menu-item');
 // MESSAGES
 const messagesNotification = document.querySelector('#messages-notification');
 
